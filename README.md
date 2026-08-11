@@ -131,11 +131,8 @@ Este projeto contribuiu para o desenvolvimento prático de conhecimentos em:
 
 **José Rafael Santos Pereira**
 
-Profissional de T.I. e estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira para a área de **Análise de Dados**.
 
-Atualmente desenvolvendo projetos práticos utilizando:
-
-**SQL | Power BI | Python | Business Intelligence**
+Desenvolvendo projetos práticos | Power BI | SQL | Python | Business Intelligence
 
 GitHub: https://github.com/ZeRafaSp/
 
