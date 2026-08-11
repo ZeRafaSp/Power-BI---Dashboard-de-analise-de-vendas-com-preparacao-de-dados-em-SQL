@@ -137,6 +137,6 @@ Atualmente desenvolvendo projetos práticos utilizando:
 
 **SQL | Power BI | Python | Business Intelligence**
 
-🔗 [LinkedIn](https://www.linkedin.com/)
+GitHub: https://github.com/ZeRafaSp/
 
-🔗 [GitHub](https://github.com/)
+LinkedIn: https://www.linkedin.com/in/rafaelsantospereirarsp/
